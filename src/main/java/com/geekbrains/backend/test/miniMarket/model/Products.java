@@ -2,6 +2,9 @@ package com.geekbrains.backend.test.miniMarket.model;
 
 public class Products {
 
+    ///testgit
+
+
     private Long id;
     private String title;
     private Integer price;
